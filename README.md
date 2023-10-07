@@ -44,6 +44,8 @@ Glossary
 References
 
 "GitHub Glossary." GitHub Docs, docs.github.com/en/get-started/quickstart/github-glossary. Accessed 7 Oct. 2023.
+
 "GitHub." WebStorm Help, Jet Brains, 5 Sept. 2023, www.jetbrains.com/help/webstorm/github.html#register-account. Accessed 7 Oct. 2023.
+
 Hendela, Arthur. "Introduction to Github and Webstorm." IS117, 5 October 2023, NJIT, Newark. PowerPoint presentation.
 
